@@ -6,12 +6,6 @@ This Jupyter Notebook performs **Exploratory Data Analysis (EDA) and Sentiment C
 ## Dataset
 The dataset is sourced from Rotten Tomatoes and can be found [here](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews).
 
-## Requirements
-To run this notebook, you need to install the following dependencies:
-```bash
-pip install gdown sweetviz fast-langdetect langdetect contractions
-```
-
 ## Steps Performed in This Notebook
 
 ### 1. Importing Libraries
